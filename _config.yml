@@ -1,10 +1,10 @@
 # Site settings
-title: NSF CSSI PI Meeting 2022
-email: cxsong@purdue.edu
+title: MGI PI Meeting 2024
+email: elbert@jhu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  NSF CSSI PI Meeting 2022
-baseurl: "/2022-meeting"
-#url: "https://cssi-pi-community.github.io"
+  NSF MGI PI Meeting 2024
+baseurl: "/2024-meeting"
+#url: "https://marda-alliance.github.io/MGI_PI_Meeting_2024/"
 
 # Build settings
 markdown: kramdown
